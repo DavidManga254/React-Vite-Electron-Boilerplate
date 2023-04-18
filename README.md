@@ -1,5 +1,7 @@
-##Introduction
+## Introduction
 A simpler boilerplate for working with Electron, Vite and React
+
+Remember to change the ```name and author``` in the package.json after cloning
 
 ## 🛫 Quick start
 Clone the repo with the following command
@@ -36,6 +38,5 @@ Familiar React application structure, just with `electron` folder on the top:
 │       ├── {os}-{os_arch}                   Contains unpacked application executable
 │       └── {app_name}_{version}.{ext}       Installer for the application
 │
-├── public                                   Static assets
 └── src                                      Renderer source code, your React application
 ```
